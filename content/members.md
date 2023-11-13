@@ -125,7 +125,7 @@ Currently a Third-year Aerospace engineering student pursuing a minor in Enginee
 ## Guillem {{< flag es "Spain" >}}
 
 {{< chip green "Software" >}}<br>
-.
+First year Robotics Master Student with a Mechanical Engineering background. Part of the infrastructure team helping port code from Python to Rust. However, I am eager to continue learning about the robots as well as pushing them to their limit in the competition!
 
 <br>
 
