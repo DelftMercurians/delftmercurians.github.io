@@ -108,10 +108,10 @@ Like to explore new things; Part-time badminton player and climber;
 
 <br>
 
-## Ece {{< flag tr "Turkey" >}}
+## Ece {{< flag tr "Turkey" >}} {{< flag nl "Netherlands" >}}
 
 {{< chip blue "Hardware" >}}<br>
-.
+Currently, a student at TU Delft studying mechanical engineering. With a basic knowledge of robotics, I want to delve deeper into the field while applying what I am learning in my studies. Additionally, I do design work for the team. 
 
 <br>
 
