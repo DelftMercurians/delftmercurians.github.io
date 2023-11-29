@@ -97,7 +97,7 @@ Like to explore new things; Part-time badminton player and climber;
 ## George {{<flag gr "Greece" >}}
 
 {{< chip cyan "Embectrical" >}}<br>
-.
+I am a Robotics MSc student at TU Delft, and I love tinkering and working with electronics. Being a member of the Delft Mercurians is an opportunity for me to get my hands dirty building robots while working alongside brilliant people. I strive to learn from both my mistakes and those of others—most frequently mine.
 
 <br>
 
