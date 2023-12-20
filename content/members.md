@@ -59,7 +59,7 @@ Currently studying Aerospace Engineering at TU Delft, and in my downtime, I'm lo
 ## Renyi {{< flag cn "China" >}}
 
 {{< chip green "Software" >}}<br>
-student at TU Delft, studying Computer Science| ᐕ)⁾⁾  
+student at TU Delft, studying Computer Science| ᐕ)⁾⁾
 I hope my code could make some sense.（┬＿┬）
 
 <br>
@@ -90,7 +90,6 @@ Like to explore new things; Part-time badminton player and climber;
 ## Leila {{<flag ir "Iran" >}}
 
 {{< chip cyan "Embectrical" >}}<br>
-.
 
 <br>
 
@@ -104,7 +103,6 @@ I am a Robotics MSc student at TU Delft, and I love tinkering and working with e
 ## Martijn {{< flag be "Belgium" >}}
 
 {{< chip blue "Hardware" >}}<br>
-.
 
 <br>
 
@@ -132,7 +130,6 @@ First year Robotics Master Student with a Mechanical Engineering background. Par
 ## Teodor {{< flag be "Belgium" >}}
 
 {{< chip green "Software" >}}<br>
-.
 
 <br>
 
@@ -143,10 +140,9 @@ I am Linus the Linelander. Grinding hard to become Felix the Flatlander
 
 <br>
 
-## Yohan {{< flag ro "Romania" >}}
+## Matei {{< flag ro "Romania" >}}
 
-{{< chip green "Matei" >}}<br>
-.
+{{< chip green "Software" >}}<br>
 
 <br>
 
@@ -167,6 +163,5 @@ I'm a first year masters student in AI, I have quite some experience with machin
 ## Akansha
 
 {{< chip yellow "Magic" >}}<br>
-.
 
 <br>
