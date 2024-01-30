@@ -30,6 +30,9 @@ layout: "single"
     <a href="https://tudelftroboticsinstitute.nl">
       <img src="/images/sponsors/dri_logo.svg" alt="TUDelft Robotics Institute" class="dri-logo" />
     </a>    
+    <a href="https://bglobal.nl/">
+      <img src="/images/sponsors/bglobal_logo.png" alt="bGlobal" />
+    </a>
     <a href="https://nl.rs-online.com/web/">
       <img src="/images/sponsors/rs_logo.jpg" alt="RS Components" />
     </a>

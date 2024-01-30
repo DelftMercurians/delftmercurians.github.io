@@ -30,11 +30,16 @@ After decades of competition, all the robots in the RoboCup Small Size League ha
 
 ## Sponsors
 
-#### MHz
+#### GHz
 
 [<img src="/images/sponsors/dri_logo.svg" alt="TU Delft Robotics Institute" class="sponsor-image dri-logo" />](https://tudelftroboticsinstitute.nl)
 
 <br>
+
+[<img src="/images/sponsors/bglobal_logo.png" alt="bGlobal" class="sponsor-image" />](https://bglobal.nl/)
+
+
+#### MHz
 
 [<img src="/images/sponsors/rs_logo.jpg" alt="RS Components" class="sponsor-image" />](https://nl.rs-online.com/web/)
 
