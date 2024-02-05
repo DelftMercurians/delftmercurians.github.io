@@ -127,6 +127,6 @@ body.dark .farnell-logo {
   content: url("/images/sponsors/farnell_logo_dark.png");
 }
 body.dark .tigers-logo {
-  content: url("/images/sponsors/tigers_mannheim_dark.png");
+  content: url("/images/sponsors/tigers_mannheim_logo_dark.png");
 }
 </style>
