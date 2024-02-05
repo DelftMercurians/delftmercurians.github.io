@@ -69,7 +69,7 @@ After decades of competition, all the robots in the RoboCup Small Size League ha
 
 <br>
 
-[<img src="/images/sponsors/robohouse_logo.png" alt="Robohouse" class="sponsor-image" />](https://robohouse.nl)
+[<img src="/images/sponsors/robohouse_logo.png" alt="Robohouse" class="sponsor-image tigers-logo" />](https://robohouse.nl)
 
 <br>
 
@@ -125,5 +125,8 @@ body.dark .getcameras-logo {
 }
 body.dark .farnell-logo {
   content: url("/images/sponsors/farnell_logo_dark.png");
+}
+body.dark .tigers-logo {
+  content: url("/images/sponsors/tigers_mannheim_dark.png");
 }
 </style>
