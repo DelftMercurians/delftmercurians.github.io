@@ -1,3 +1,3 @@
-# RoboTeamTUD.github.io
+# delftmercurians.github.io
 Delft Mercurians website
 .
