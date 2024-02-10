@@ -77,6 +77,7 @@ After decades of competition, all the robots in the RoboCup Small Size League ha
 
 [<img src="/images/sponsors/twente_logo.png" alt="Roboteam Twente" class="sponsor-image" style="height: 80px" />](https://roboteamtwente.nl/)
 [<img src="/images/sponsors/tigers_mannheim_logo.png" alt="TIGERS Mannheim" class="sponsor-image tigers-logo" style="height: 80px" />](https://www.tigers-mannheim.de/)
+[<img src="/images/sponsors/er_force_logo.png" alt="ER-Force" class="sponsor-image" style="height: 80px" />](https://www.robotics-erlangen.de/en/)
 
 <br>
 
