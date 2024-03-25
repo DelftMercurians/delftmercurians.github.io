@@ -19,6 +19,11 @@ layout: "single"
       Contact
     </span>
   </a>
+  <a class="button home" href="join/" rel="noopener" title="Join the team!">
+    <span class="button-inner">
+      Join the team!
+    </span>
+  </a>
 </div>
 
 
