@@ -76,6 +76,7 @@ After decades of competition, all the robots in the RoboCup Small Size League ha
 [<img src="/images/sponsors/farnell_logo.png" alt="Farnell" class="sponsor-image farnell-logo" />](https://nl.farnell.com)
 
 <br>
+
 ## Collaborators
 
 [<img src="/images/sponsors/twente_logo.png" alt="Roboteam Twente" class="sponsor-image" style="height: 80px" />](https://roboteamtwente.nl/)
