@@ -49,17 +49,17 @@ After decades of competition, all the robots in the RoboCup Small Size League ha
 
 <br>
 
+#### kHz
+
 [<img src="/images/sponsors/getcameras_logo.png" alt="Get Cameras" class="sponsor-image getcameras-logo" />](https://www.get-cameras.com)
 
 <br>
-
-#### kHz
 
 [<img src="/images/sponsors/st_logo.png" alt="ST Microelectronics" class="sponsor-image st-logo" />](https://www.st.com)
 
 <br>
 
-[<img src="/images/sponsors/farnell_logo.png" alt="Farnell" class="sponsor-image farnell-logo" />](https://nl.farnell.com)
+[<img src="/images/sponsors/cor.png" alt="CoR" class="sponsor-image cor-logo" />](https://www.tudelft.nl/me/over/afdelingen/cognitive-robotics-cor)
 
 <br>
 
@@ -73,6 +73,9 @@ After decades of competition, all the robots in the RoboCup Small Size League ha
 
 <br>
 
+[<img src="/images/sponsors/farnell_logo.png" alt="Farnell" class="sponsor-image farnell-logo" />](https://nl.farnell.com)
+
+<br>
 ## Collaborators
 
 [<img src="/images/sponsors/twente_logo.png" alt="Roboteam Twente" class="sponsor-image" style="height: 80px" />](https://roboteamtwente.nl/)
