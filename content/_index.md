@@ -45,7 +45,7 @@ layout: "single"
       <img src="/images/sponsors/nanotec_logo.svg" alt="Nanotec" />
     </a>
     <a href="https://www.tudelft.nl/me/over/afdelingen/cognitive-robotics-cor">
-      <img src="/images/sponsors/cor.png" alt="CoR" />
+      <img src="/images/sponsors/CoR_text.png" alt="CoR" />
     </a>
     <a href="https://www.get-cameras.com/">
       <img src="/images/sponsors/getcameras_logo.png" alt="Get Cameras" class="getcameras-logo" />
