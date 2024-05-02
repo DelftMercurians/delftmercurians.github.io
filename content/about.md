@@ -59,7 +59,7 @@ After decades of competition, all the robots in the RoboCup Small Size League ha
 
 <br>
 
-[<img src="/images/sponsors/CoR_text.png" alt="CoR" class="sponsor-image cor-logo" />](https://www.tudelft.nl/me/over/afdelingen/cognitive-robotics-cor)
+[<img src="/images/sponsors/CoR_text_large.png" alt="CoR" class="sponsor-image cor-logo" />](https://www.tudelft.nl/me/over/afdelingen/cognitive-robotics-cor)
 
 <br>
 
