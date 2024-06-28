@@ -100,6 +100,13 @@ I am a Robotics MSc student at TU Delft, and I love tinkering and working with e
 
 <br>
 
+## Evan {{<flag us "US" >}}
+
+{{< chip cyan "Embetrical" >}}<br>
+Hello Mr. Dennis
+
+<br>
+
 ## Martijn {{< flag be "Belgium" >}}
 
 {{< chip blue "Hardware" >}}<br>
@@ -166,3 +173,5 @@ I'm a first year masters student in AI, I have quite some experience with machin
 {{< chip yellow "Magic" >}}<br>
 
 <br>
+
+
