@@ -66,6 +66,7 @@ After decades of competition, all the robots in the RoboCup Small Size League ha
 [<img src="/images/sponsors/tinytronics_logo.png" alt="Tinytronics" class="sponsor-image tinytronics-logo" />](https://tinytronics.nl)
 
 <br>
+
 ## Partners
 
 [<img src="/images/sponsors/rsa_logo.svg" alt="Robotics Student Association" class="sponsor-image" />](https://rsadelft.nl)
