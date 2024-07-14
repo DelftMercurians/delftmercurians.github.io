@@ -56,6 +56,9 @@ layout: "single"
     <a href="https://nl.farnell.com/">
       <img src="/images/sponsors/farnell_logo.png" alt="Farnell" class="farnell-logo" />
     </a>
+    <a href="https://tinytronics.nl/">
+      <img src="/images/sponsors/tinytronics_logo.png" alt="Tinytronics" class="tinytronics-logo" />
+    </a>
     <a href="https://rsadelft.nl">
       <img src="/images/sponsors/rsa_logo.svg" alt="Robotics Student Association" />
     </a>
