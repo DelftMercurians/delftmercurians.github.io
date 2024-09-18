@@ -67,7 +67,7 @@ I hope my code could make some sense.（┬＿┬）
 ## Thijs {{< flag nl "Netherlands" >}}
 
 {{< chip blue "Hardware" >}}<br>
-I'm a Second year computer science student who is always open for a new challenge. My goal is to learn a lot
+I'm a Third year computer science student who is always open for a new challenge. My goal is to learn a lot
 and contribute to a fierce team of 6 robots that is to be reckoned with.
 
 <br>
