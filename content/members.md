@@ -137,7 +137,7 @@ First year Robotics Master Student with a Mechanical Engineering background. Par
 ## Teodor {{< flag ro "Romania" >}}
 
 {{< chip green "Software" >}}<br>
-I'm currently a first-year Bachelor's student in Computer Science & Engineering at TU Delft. I've built small Arduino robots all high school, and now under the guidance of Balint, I'm learning Rust. I am enthusiastic about continuous learning, connecting with new people, and embracing the fun in every challenge!
+I'm currently a second-year honours Bachelor's student in Computer Science & Engineering at TU Delft. I've built small Arduino robots all high school, and now I'm in the softare team under the guidance of Balint. I am enthusiastic about continuous learning, connecting with new people, and embracing the fun in every challenge!
 
 <br>
 
