@@ -47,8 +47,8 @@ layout: "single"
     <a href="https://www.tudelft.nl/me/over/afdelingen/cognitive-robotics-cor">
       <img src="/images/sponsors/CoR_text_large.png" alt="CoR" />
     </a>
-    <a href="https://www.get-cameras.com/">
-      <img src="/images/sponsors/getcameras_logo.png" alt="Get Cameras" class="getcameras-logo" />
+    <a href="https://va-imaging.com/">
+      <img src="/images/sponsors/getcameras_logo.png" alt="VA Imaging" class="getcameras-logo" />
     </a>
     <a href="https://www.st.com/">
       <img src="/images/sponsors/st_logo.png" alt="ST Microelectronics" class="st-logo" />
