@@ -1,4 +1,4 @@
-# Sample workflow for building and deploying a Hugo site to GitHub Pages
+# Deploy Hugo site to GitHub Pages
 name: Deploy Hugo site to Pages
 
 on:
@@ -45,15 +45,22 @@ jobs:
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
         run: |
-          hugo \
-            --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
+          set -e  # Fail if any command fails
+          hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
+      - name: Debug - List generated files
+        run: ls -lah ./public
+      - name: Ensure public directory exists
+        run: |
+          if [ ! -d "./public" ]; then
+            echo "Error: ./public directory not found!"
+            exit 1
+          fi
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
-          name: github-pages   # Important: GitHub Pages requires this artifact name
+          name: github-pages
           path: ./public
-          retention-days: 1    # Keep the artifact only for 1 day to save storage
+          retention-days: 1
 
   deploy:
     environment:
@@ -67,6 +74,8 @@ jobs:
         with:
           name: github-pages
           path: ./public
+      - name: Debug - Check downloaded files
+        run: ls -lah ./public
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
