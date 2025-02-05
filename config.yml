@@ -29,6 +29,9 @@ languages:
                 - name: About
                   url: about/
                   weight: 5
+                - name: Publications
+                  url: publications/
+                  weight: 5
                 - name: Blog
                   url: blog/
                   weight: 10
