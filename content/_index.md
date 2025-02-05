@@ -14,6 +14,11 @@ layout: "single"
       About
     </span>
   </a>
+  <a class="button home" href="publications/" rel="noopener" title="About">
+    <span class="button-inner">
+      Publications
+    </span>
+  </a>
   <a class="button home" href="contact/" rel="noopener" title="Contact">
     <span class="button-inner">
       Contact
