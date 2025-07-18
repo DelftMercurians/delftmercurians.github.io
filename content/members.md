@@ -127,6 +127,12 @@ Currently a Third-year Aerospace engineering student pursuing a minor in Enginee
 
 <br>
 
+## Joonas {{< flag nl "Netherlands" >}}
+
+{{< chip blue "Hardware" >}}<br>
+
+<br>
+
 ## Guillem {{< flag es "Spain" >}}
 
 {{< chip green "Software" >}}<br>
