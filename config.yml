@@ -32,9 +32,6 @@ languages:
                 - name: Publications
                   url: publications/
                   weight: 5
-                - name: Blog
-                  url: blog/
-                  weight: 10
                 - name: Contact
                   url: contact/
                   weight: 10

@@ -28,6 +28,9 @@ After decades of competition, all the robots in the RoboCup Small Size League ha
 
 <br>
 
+We are a part of the [Robotics Student Association](https://rsadelft.nl), an association focused on advancing robotics through student projects and events.
+[<img src="/images/sponsors/rsa_logo.svg" alt="Robotics Student Association" class="sponsor-image rsa-logo" />](https://rsadelft.nl)
+
 ## Sponsors
 
 #### GHz
@@ -51,11 +54,15 @@ After decades of competition, all the robots in the RoboCup Small Size League ha
 
 #### kHz
 
-[<img src="/images/sponsors/getcameras_logo.png" alt="Get Cameras" class="sponsor-image getcameras-logo" />](https://www.get-cameras.com)
+[<img src="/images/sponsors/st_logo.png" alt="ST Microelectronics" class="sponsor-image st-logo" />](https://www.st.com)
 
 <br>
 
-[<img src="/images/sponsors/st_logo.png" alt="ST Microelectronics" class="sponsor-image st-logo" />](https://www.st.com)
+[<img src="/images/sponsors/vankeulen_logo.svg" alt="Van Keulen Interieurbouw" class="sponsor-image vk-logo" />](https://keulen.com)
+
+<br>
+
+[<img src="/images/sponsors/getcameras_logo.png" alt="Get Cameras" class="sponsor-image getcameras-logo" />](https://www.get-cameras.com)
 
 <br>
 
@@ -69,15 +76,7 @@ After decades of competition, all the robots in the RoboCup Small Size League ha
 
 ## Partners
 
-[<img src="/images/sponsors/rsa_logo.svg" alt="Robotics Student Association" class="sponsor-image" />](https://rsadelft.nl)
-
-<br>
-
 [<img src="/images/sponsors/robohouse_logo.png" alt="Robohouse" class="sponsor-image" />](https://robohouse.nl)
-
-<br>
-
-[<img src="/images/sponsors/farnell_logo.png" alt="Farnell" class="sponsor-image farnell-logo" />](https://nl.farnell.com)
 
 <br>
 
@@ -132,13 +131,16 @@ body.dark .st-logo {
 body.dark .getcameras-logo {
   content: url("/images/sponsors/getcameras_logo_dark.png");
 }
-body.dark .farnell-logo {
-  content: url("/images/sponsors/farnell_logo_dark.png");
-}
 body.dark .tigers-logo {
   content: url("/images/sponsors/tigers_mannheim_logo_dark.png");
 }
 body.dark .er-logo {
   content: url("/images/sponsors/er_force_logo_dark.png");
+}
+body.dark .vk-logo {
+  content: url("/images/sponsors/vankeulen_logo_dark.svg")
+}
+body.dark .rsa-logo {
+  content: url("/images/sponsors/rsa_logo_dark.svg")
 }
 </style>

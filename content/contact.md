@@ -33,7 +33,7 @@ the team, partnership enquiries, or other matters.
 
 <a href="https://goo.gl/maps/rXvpHLvNAjrF6vFE7" class="icon-link" target="_blank">
   <img src="/images/social/map_icon.svg" alt="Address">
-  RSA, Julianalaan 67, 2628BC Delft, The Netherlands
+  RSA, Molengraaffsingel 29, 2629JD Delft, The Netherlands
 </a>
 
 {{< join-callout >}}
