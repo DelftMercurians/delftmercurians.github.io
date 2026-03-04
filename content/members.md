@@ -12,17 +12,31 @@ keywords: ["Delft Mercurians", "RoboCup", "members", "students"]
 
 ## Thomas Hettasch {{< flag za "South Africa" >}} {{< flag de "Germany" >}}
 
-{{< chip red "Technical manager" >}} {{< chip cyan "Embectrical Lead" >}}<br>
+{{< chip red "Founder" >}} {{< chip cyan "Embectrical" >}}<br>
 I'm a second year Robotics Masters student at TU Delft and have been building robots for over a decade now. I enjoy learning new technical skills, as well as pushing myself to develop my leadership abilities. Ultimately, my aim is to inspire and encourage the next generation of engineers to think outside the box and pursue innovation.
 
 <br>
 
 ## Zhengyang (Steven) {{< flag cn "China" >}}
 
-{{< chip red "Team manager" >}} {{< chip orange "Marketing" >}} {{< chip green "Software" >}}<br>
+{{< chip red "Team manager" >}} {{< chip orange "Marketing" >}}<br>
 A second year Robotics master student at TU Delft. I joined the team to do something meaningful and fun in my spare
 time and it's a great experience so far. Having some interest in marketing I'd like to develop our brand to something
 fun and memorable.
+
+<br>
+
+## Alexander Nitters {{< flag fr "France" >}} {{< flag gb-sct "Scotland" >}} {{< flag nl "Netherlands" >}}
+
+{{< chip red "Team manager" >}} {{< chip cyan "Embectrical Lead" >}}<br>
+A Computer Science graduate now doing the bridging programme to the Master Robotics. Started in the hardware subteam when the Mercurians was founded, then moved to the embectrical team.<br>Holds the team record for most fuses blown.
+
+<br>
+
+## Balint {{< flag hu "Hungary" >}}
+
+{{< chip green "Software Lead" >}}<br>
+Ex-computer science student from Hungary with 3 years of professional software engineering experience. I joined the team to look for new challanges, meet cool people and have fun, while also working to innovate for a better world.
 
 <br>
 
@@ -35,35 +49,6 @@ people along the way.
 
 <br>
 
-## Balint {{< flag hu "Hungary" >}}
-
-{{< chip green "Software Lead" >}}<br>
-Ex-computer science student from Hungary with 3 years of professional software engineering experience. I joined the team to look for new challanges, meet cool people and have fun, while also working to innovate for a better world.
-
-<br>
-
-## Roma {{< flag ea "Earth" >}}
-
-{{< chip yellow "Magic Lead" >}}<br>
-Trying hard to get into research, but failing miserably for now. Had 8 years of robotics experience, but prefer to work on high-level software. I aim to win RoboCup, but taking the last place is also fine.
-
-<br>
-
-## Kevin {{< flag hk "Hong Kong" >}} {{< flag fr "France" >}}
-
-{{< chip blue "Hardware Lead" >}}<br>
-Currently studying Aerospace Engineering at TU Delft, and in my downtime, I'm looking to learn more about robotics whilst putting my knowledge to use. I joined the team to challenge myself whilst having fun and I look forward to the progress the team has to make!
-
-<br>
-
-## Renyi {{< flag cn "China" >}}
-
-{{< chip green "Software" >}}<br>
-student at TU Delft, studying Computer Science| ᐕ)⁾⁾
-I hope my code could make some sense.（┬＿┬）
-
-<br>
-
 ## Thijs {{< flag nl "Netherlands" >}}
 
 {{< chip blue "Hardware" >}}<br>
@@ -72,18 +57,27 @@ and contribute to a fierce team of 6 robots that is to be reckoned with.
 
 <br>
 
-## Alexander {{< flag fr "France" >}} {{< flag gb-sct "Scotland" >}} {{< flag nl "Netherlands" >}}
+## Joonas {{< flag nl "Netherlands" >}}
 
-{{< chip blue "Hardware" >}} {{< chip cyan "Embectrical" >}}<br>
-I've come from France to study Computer Science in Delft, joining the team because of the interest in Robotics I
-gained from participating in the First Tech Challenge as a high-school student.
+{{< chip blue "Hardware" >}}<br>
 
 <br>
 
-## Nianlei {{< flag cn "China" >}}
+## Jeroen {{< flag nl "Netherlands" >}}
 
-{{< chip cyan "Embectrical" >}}<br>
-Like to explore new things; Part-time badminton player and climber;
+{{< chip blue "Hardware" >}}<br>
+
+<br>
+
+## Teodor Virag {{< flag au "Australia" >}}
+
+{{< chip blue "Hardware" >}}<br>
+
+<br>
+
+## Tomas {{<flag sk "Slovakia" >}}
+
+{{< chip green "Software" >}}<br>
 
 <br>
 
@@ -93,17 +87,84 @@ Like to explore new things; Part-time badminton player and climber;
 
 <br>
 
+## Nuria {{<flag es "Spain" >}}
+
+{{< chip cyan "Embectrical" >}}<br>
+
+<br>
+
+## Mare {{<flag nl "Netherlands" >}}
+
+{{< chip cyan "Embectrical" >}} {{< chip orange "Marketing" >}}<br>
+
+<br>
+
+## Wout {{<flag nl "Netherlands" >}}
+
+{{< chip cyan "Embectrical" >}}<br>
+
+<br>
+
+## Kishor {{<flag in "India" >}}
+
+{{< chip cyan "Embectrical" >}}<br>
+
+<br>
+
+## Girish {{<flag lu "Luxemburg" >}}
+
+{{< chip cyan "Embectrical" >}}<br>
+
+<br>
+
+<br>
+
+<br>
+<br>
+<br>
+
+# Past members
+
+## Roma {{< flag ea "Earth" >}}
+
+{{< chip yellow "Magic Lead" >}}<br>
+<!--Trying hard to get into research, but failing miserably for now. Had 8 years of robotics experience, but prefer to work on high-level software. I aim to win RoboCup, but taking the last place is also fine.-->
+
+<br>
+
+## Kevin {{< flag hk "Hong Kong" >}} {{< flag fr "France" >}}
+
+{{< chip blue "Hardware Lead" >}}<br>
+<!--Currently studying Aerospace Engineering at TU Delft, and in my downtime, I'm looking to learn more about robotics whilst putting my knowledge to use. I joined the team to challenge myself whilst having fun and I look forward to the progress the team has to make!-->
+
+<br>
+
+## Renyi {{< flag cn "China" >}}
+
+{{< chip green "Software" >}}<br>
+<!--student at TU Delft, studying Computer Science| ᐕ)⁾⁾
+I hope my code could make some sense.（┬＿┬）-->
+
+<br>
+
+## Nianlei {{< flag cn "China" >}}
+
+{{< chip cyan "Embectrical" >}}<br>
+<!--Like to explore new things; Part-time badminton player and climber;-->
+
+<br>
+
 ## George {{<flag gr "Greece" >}}
 
 {{< chip cyan "Embectrical" >}}<br>
-I am a Robotics MSc student at TU Delft, and I love tinkering and working with electronics. Being a member of the Delft Mercurians is an opportunity for me to get my hands dirty building robots while working alongside brilliant people. I strive to learn from both my mistakes and those of others—most frequently mine.
+<!--I am a Robotics MSc student at TU Delft, and I love tinkering and working with electronics. Being a member of the Delft Mercurians is an opportunity for me to get my hands dirty building robots while working alongside brilliant people. I strive to learn from both my mistakes and those of others—most frequently mine.-->
 
 <br>
 
 ## Evan {{<flag us "US" >}}
 
 {{< chip cyan "Embetrical" >}}<br>
-Hello Mr. Dennis
+<!--Hello Mr. Dennis-->
 
 <br>
 
@@ -116,41 +177,35 @@ Hello Mr. Dennis
 ## Ece {{< flag tr "Turkey" >}} {{< flag nl "Netherlands" >}}
 
 {{< chip blue "Hardware" >}}<br>
-Currently, a student at TU Delft studying mechanical engineering. With a basic knowledge of robotics, I want to delve deeper into the field while applying what I am learning in my studies. Additionally, I do design work for the team. 
+<!--Currently, a student at TU Delft studying mechanical engineering. With a basic knowledge of robotics, I want to delve deeper into the field while applying what I am learning in my studies. Additionally, I do design work for the team.-->
 
 <br>
 
 ## Kian {{< flag ir "Iran" >}}
 
 {{<chip blue "Hardware" >}}<br>
-Currently a Third-year Aerospace engineering student pursuing a minor in Engineering with Artificial Intelligence. Thrilled to be part of the Delft Mercurians football team, where I get to contribute my skills towards the team’s mission of breaking into the Robocup competition for the first time in 2024.
-
-<br>
-
-## Joonas {{< flag nl "Netherlands" >}}
-
-{{< chip blue "Hardware" >}}<br>
+<!--Currently a Third-year Aerospace engineering student pursuing a minor in Engineering with Artificial Intelligence. Thrilled to be part of the Delft Mercurians football team, where I get to contribute my skills towards the team’s mission of breaking into the Robocup competition for the first time in 2024.-->
 
 <br>
 
 ## Guillem {{< flag es "Spain" >}}
 
 {{< chip green "Software" >}}<br>
-First year Robotics Master Student with a Mechanical Engineering background. Part of the infrastructure team helping port code from Python to Rust. However, I am eager to continue learning about the robots as well as pushing them to their limit in the competition!
+<!--First year Robotics Master Student with a Mechanical Engineering background. Part of the infrastructure team helping port code from Python to Rust. However, I am eager to continue learning about the robots as well as pushing them to their limit in the competition!-->
 
 <br>
 
 ## Teodor {{< flag ro "Romania" >}}
 
 {{< chip green "Software" >}}<br>
-I'm currently a second-year honours Bachelor's student in Computer Science & Engineering at TU Delft. I've built small Arduino robots all high school, and now I'm in the softare team under the guidance of Balint. I am enthusiastic about continuous learning, connecting with new people, and embracing the fun in every challenge!
+<!--I'm currently a second-year honours Bachelor's student in Computer Science & Engineering at TU Delft. I've built small Arduino robots all high school, and now I'm in the softare team under the guidance of Balint. I am enthusiastic about continuous learning, connecting with new people, and embracing the fun in every challenge!-->
 
 <br>
 
 ## Yohan {{< flag fr "France" >}}
 
 {{< chip green "Software" >}}<br>
-I am Linus the Linelander. Grinding hard to become Felix the Flatlander
+<!--I am Linus the Linelander. Grinding hard to become Felix the Flatlander-->
 
 <br>
 
@@ -163,14 +218,14 @@ I am Linus the Linelander. Grinding hard to become Felix the Flatlander
 ## Iván López Broceño {{< flag es "Spain" >}}
 
 {{< chip yellow "Magic" >}}<br>
-I am a first year MSc Robotics student at TU Delft driven by curiosity. My goal is to create new robotic solutions that will shape the future we will live in for the better. In order to do that, I am focusing my career on the software of the robots and its AI. Joining the team allows me to face new challenges aimed to win the competition at the same time that I can meet and work with passionate people. Personally, I am the kind of person that say yes to every crazy plan, so count me in!
+<!--I am a first year MSc Robotics student at TU Delft driven by curiosity. My goal is to create new robotic solutions that will shape the future we will live in for the better. In order to do that, I am focusing my career on the software of the robots and its AI. Joining the team allows me to face new challenges aimed to win the competition at the same time that I can meet and work with passionate people. Personally, I am the kind of person that say yes to every crazy plan, so count me in!-->
 
 <br>
 
 ## Misha {{< flag il "Israel" >}}
 
 {{< chip yellow "Magic" >}}<br>
-I'm a first year masters student in AI, I have quite some experience with machine learning and reinforcement learning in particular, and I am exited to apply my ML skills in the scope of this competition.
+<!--I'm a first year masters student in AI, I have quite some experience with machine learning and reinforcement learning in particular, and I am exited to apply my ML skills in the scope of this competition.-->
 
 <br>
 
