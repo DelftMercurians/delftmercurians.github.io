@@ -38,6 +38,10 @@ A Computer Science graduate now doing the bridging programme to the Master Robot
 {{< chip green "Software Lead" >}}<br>
 Ex-computer science student from Hungary with 3 years of professional software engineering experience. I joined the team to look for new challanges, meet cool people and have fun, while also working to innovate for a better world.
 
+## Jeroen {{< flag nl "Netherlands" >}}
+
+{{< chip blue "Hardware Lead" >}}<br>
+
 <br>
 
 ## Tim Verburg {{< flag nl "Netherlands" >}}
@@ -58,12 +62,6 @@ and contribute to a fierce team of 6 robots that is to be reckoned with.
 <br>
 
 ## Joonas {{< flag nl "Netherlands" >}}
-
-{{< chip blue "Hardware" >}}<br>
-
-<br>
-
-## Jeroen {{< flag nl "Netherlands" >}}
 
 {{< chip blue "Hardware" >}}<br>
 
@@ -111,7 +109,7 @@ and contribute to a fierce team of 6 robots that is to be reckoned with.
 
 <br>
 
-## Girish {{<flag lu "Luxemburg" >}}
+## Girish {{<flag es "Spain" >}} {{<flag in "India" >}}
 
 {{< chip cyan "Embectrical" >}}<br>
 

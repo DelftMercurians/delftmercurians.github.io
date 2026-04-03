@@ -62,7 +62,7 @@ We are a part of the [Robotics Student Association](https://rsadelft.nl), an ass
 
 <br>
 
-[<img src="/images/sponsors/getcameras_logo.png" alt="Get Cameras" class="sponsor-image getcameras-logo" />](https://www.get-cameras.com)
+[<img src="/images/sponsors/basler_logo.svg" alt="Basler" class="sponsor-image basler-logo" />](https://www.baslerweb.com)
 
 <br>
 

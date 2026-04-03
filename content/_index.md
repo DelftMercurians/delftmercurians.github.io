@@ -57,8 +57,8 @@ We are currently busy with designing and manufacturing our next iteration of rob
       <a href="https://www.st.com/">
         <img src="/images/sponsors/st_logo.png" alt="ST Microelectronics" class="st-logo" />
       </a>
-      <a href="https://va-imaging.com/">
-        <img src="/images/sponsors/getcameras_logo.png" alt="VA Imaging" class="getcameras-logo" />
+      <a href="https://www.baslerweb.com">
+        <img src="/images/sponsors/basler_logo.svg" alt="Basler" class="basler-logo" />
       </a>
       <a href="https://tinytronics.nl/">
         <img src="/images/sponsors/tinytronics_logo.png" alt="Tinytronics" />
