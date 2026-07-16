@@ -34,6 +34,8 @@ Note: All team communication is done in English
   <label for="mechanical">Mechanical Engineer</label><br>
   <input type="checkbox" name="embectrical" id="embectrical" value="Embectrical Engineer (embedded/electrical)">
   <label for="embectrical">Embectrical Engineer (embedded/electrical)</label><br>
+  <input type="checkbox" name="software" id="software" value="Software Engineer">
+  <label for="software">Software Engineer</label><br>
   <input type="checkbox" name="public-relations" id="public-relations" value="Public Relations">
   <label for="public-relations">Public Relations</label><br>
   <input type="checkbox" name="graphical-designer" id="graphical-designer" value="Graphical Designer">
