@@ -72,7 +72,7 @@ We are currently busy with designing and manufacturing our next iteration of rob
 
   <!-- RIGHT IMAGE -->
   <div class="home-right">
-    <img src="/images/background_field.jpeg" alt="Background field">
+    <img src="/images/DSC_4291.JPG.jpeg" alt="Background field">
   </div>
 
 </div>
