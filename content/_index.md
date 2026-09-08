@@ -25,7 +25,7 @@ We are currently busy with designing and manufacturing our next iteration of rob
     </div>
     <div class="home-spacer"></div>
     <div class="home-image-mobile">
-      <img src="/images/DSC_4921.JPG.jpeg" alt="Delft Mercurians robot" />
+      <img src="/images/BackgroundMobile.jpeg" alt="Delft Mercurians robot" />
     </div>
     <p class="home-caption">Part of</p>
     <div class="home-sponsors">
