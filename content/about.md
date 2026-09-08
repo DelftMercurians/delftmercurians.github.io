@@ -4,7 +4,7 @@ ShowToc: false
 ShowBreadcrumbs: false
 hideMeta: true
 ShowRssButtonInSectionTermList: false
-summary: "The Delft Mercurians RoboCup team was formed in September 2022, as a project from the Robotics Student Association in Delft. We aim to participate in the 2024 RoboCup competition in Eindhoven, and we are working hard to get the robots ready !"
+summary: "The Delft Mercurians RoboCup team was formed in September 2022, as a project from the Robotics Student Association in Delft. We aim to participate in the 2027 RoboCup competition in Germany, and we are working hard to get the robots ready !"
 keywords: ["Delft Mercurians", "RoboCup", "about", "robotics", "football"]
 ---
 
@@ -15,7 +15,7 @@ We currently have [21 members](/members), meeting regularly and working on all a
 management, software, hardware and electronics. We are a multicultural and multidisciplinary team, with many
 Dutch and international students in Robotics, Computer Science, Nano-biology, and more.
 
-We aim to participate in the 2024 RoboCup competition in Eindhoven, and we are working hard to get the robots ready !
+We aim to participate in the 2027 RoboCup competition in Germany, and we are working hard to get the robots ready !
 
 [*See our members*](/members/)
 
@@ -117,7 +117,7 @@ other in 10-minute matches.
 > sub-components into a robustly functioning whole making Small Size robot soccer a very interesting and challenging
 > domain for research and education.
 >
-> \- *From the [Robocup website](https://ssl.robocup.org/about/)*
+> \- *From the [Robocup website](https://ssl.robocup.org/)*
 
 ![Photo of a Robocup SSL match](/images/illustrations/robocup_match.jpg)
 
