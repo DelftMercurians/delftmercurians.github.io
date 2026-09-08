@@ -14,8 +14,8 @@ layout: "single"
       <img src="/images/logo.svg" class="home-logo" alt="Delft Mercurians Logo" />
     </div>
     <p class="home-tagline">
-      We are the Delft Mercurians, a group of TU Delft students united in the goal of participating in the RoboCup Small Size League. Together we develop fully autonomous football robots from the ground up. These robots play 10 minute long 6 vs 6 football matches against teams from all over the world. We were founded in 2022 and have since competed in Eindhoven, The Netherlands (2024) and El-Salvador, Brazil (2025). <br>
-We are currently busy with designing and manufacturing our next iteration of robots to compete at RoboCup 2026 in Seoul, South-Korea in July.
+      We are the Delft Mercurians, a group of TU Delft students united in the goal of participating in the RoboCup Small Size League. Together we develop fully autonomous football robots from the ground up. These robots play 10 minute long 6 vs 6 football matches against teams from all over the world. We were founded in 2022 and have since competed in Eindhoven, The Netherlands (2024), Salvador, Brazil (2025), and Incheon, South Korea (2026). <br>
+We are currently busy with designing and manufacturing our next iteration of robots to compete at RoboCup 2027 in Nuremberg, Germany in July.
     </p>
     <div class="buttons">
       <a class="button button-home" href="about/" rel="noopener"><span>About</span></a>
